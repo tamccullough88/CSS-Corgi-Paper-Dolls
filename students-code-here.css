@@ -1,0 +1,17 @@
+.monocle {
+    position: relative;
+    left: 250px;
+    top: 40px;
+    animation-name: monocle-move;
+    animation-duration: 4s;
+}
+
+
+
+  .sunglasses {
+    position: relative;
+    left: 0;
+    bottom: 0;
+
+}
+
