@@ -15,7 +15,7 @@
 .pawprint {
     position: fixed;
     top: 3em;
-    right: 69.75em;
+    right: 69.75em ;
 
 }
 
@@ -26,5 +26,4 @@
 
 .top-hat {
     z-index: 1;
-    
 }
