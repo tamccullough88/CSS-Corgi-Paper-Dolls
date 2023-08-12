@@ -1,17 +1,30 @@
-.monocle {
+.funny-glasses {
     position: relative;
-    left: 250px;
-    top: 40px;
+    left: 213px;
+    bottom: 108px;
     animation-name: monocle-move;
     animation-duration: 4s;
 }
 
-
-
-  .sunglasses {
+.bandana{
     position: relative;
-    left: 0;
-    bottom: 0;
+    bottom: 64px;
+    right: 125px;
+}
+
+.pawprint {
+    position: fixed;
+    top: 3em;
+    right: 69.75em;
 
 }
 
+.luna{
+    position: sticky;
+    left: 1em;
+}
+
+.top-hat {
+    z-index: 1;
+    
+}
